@@ -1,0 +1,1 @@
+copia a pasta "events" e coloca dentro da pasta globalevent/scripts
